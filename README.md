@@ -19,7 +19,7 @@
 <h3> Some things about me </h3>
 <p> ⚡ I’m currently working on updating my portfolio and building some cool projects </p>
 <p> ⚡ Like a small Rails App where you can see produce season (I'm playing around with automated tests, it's super fun :]) </p>
-<p> ⚡ I’m currently diving deeper into JS! I already learned a bit and want to go further </p>
+<p> ⚡ I’m currently diving deeper into JS! Next step: React! </p>
 <p> ⚡ Pronouns: she/her </p>
 <p> ⚡ Reading: A Tale of Love and Darkness, Amós Oz </p>
 <p> ⚡ Fun fact: I used to be captain of my roller derby team </p>
