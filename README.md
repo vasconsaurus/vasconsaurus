@@ -17,7 +17,8 @@
 
 </br>
 <h3> Some things about me </h3>
-<p> ⚡ I’m currently working on a small Rails App where you can see produce season (I'm playing around with automated tests, it's super fun :]) </p>
+<p> ⚡ I’m currently working on a small Rails App where you can see produce season </p>
+<p> ⚡ Also playing around with automated tests, it's super fun :] </p>
 <p> ⚡ I’m currently diving deeper into JS and learning React! </p>
 <p> ⚡ Pronouns: she/her </p>
 <p> ⚡ Reading: Prag Prog's 'Agile Web Development with Rails 6' and 'A Tale of Love and Darkness', Amós Oz </p>
