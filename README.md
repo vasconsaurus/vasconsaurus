@@ -2,7 +2,7 @@
   <img src="https://github.com/vasconsaurus/landing/blob/gh-pages/images/andrew-umansky-l5truYNKmm8-unsplash-edited2.gif?raw=true" width="600"/>
 </div> -->
 
-<h1> Hi! I'm Manu ✨ Programmer in training ✨ </h1>
+<h1> Hi! I'm Manu ✨ Fullstack Developer ✨ </h1>
 <p> I was a graphic designer for over 10 years. I felt I needed a new challenge, and turns out programming is a lot of fun.</p>
 
 </br>
@@ -14,12 +14,15 @@
 ![image](https://img.shields.io/badge/Sass-0000FF?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-0000FF?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Ruby-0000FF?style=for-the-badge&logo=ruby&logoColor=white)
+![image](https://img.shields.io/badge/React-0000FF?style=for-the-badge&logo=react&logoColor=white)
 
 </br>
 <h3> Some things about me </h3>
 <p> ⚡ I’m currently working on a small Rails App where you can see produce season </p>
 <p> ⚡ Also playing around with automated tests, it's super fun :] </p>
-<p> ⚡ I’m currently diving deeper into JS and learning React! </p>
+<p> ⚡ I’m diving deeper into React! </p>
+<p> ⚡ Dipping my toes into open source </p>
+<p> ⚡ Taking a devops course </p>
 <p> ⚡ Pronouns: she/her </p>
 <p> ⚡ Reading: Prag Prog's 'Agile Web Development with Rails 6' and 'A Tale of Love and Darkness', Amós Oz </p>
 <p> ⚡ Fun fact: I used to be captain of my roller derby team </p>
