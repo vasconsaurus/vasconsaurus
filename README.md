@@ -15,6 +15,8 @@
 ![image](https://img.shields.io/badge/Bootstrap-0000FF?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Ruby-0000FF?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/React-0000FF?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/Python-0000FF?style=for-the-badge&logo=python&logoColor=white)
+
 
 </br>
 <h3> Some things about me </h3>
